@@ -1,0 +1,2 @@
+model_checkpoint_path: "tf-data.chkp"
+all_model_checkpoint_paths: "tf-data.chkp"
